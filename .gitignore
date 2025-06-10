@@ -1,0 +1,20 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache
+build/
+.idea/
+android/.gradle
+android/app/debug
+android/app/release
+*.iml
+*.lock
+
+# VSCode settings
+.vscode/
+
+# Firebase/Keys (remove from repo if sensitive)
+*.keystore
+firebase.json
